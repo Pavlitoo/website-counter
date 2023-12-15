@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-shadow: none;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(119, 191, 255);
+}
+
+#counter {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(12, 49, 128);
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(31, 105, 195);
+}
+h1,
+h3
+{
+    color: rgb(218, 249, 255);
+}
+
